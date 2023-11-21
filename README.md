@@ -156,28 +156,6 @@ The concept of Palmshore was drawn from Ahlan Foodpreneurs, the idea was to crea
 </html>
 ```
 
-# company.html
-```
-<head>
-<title>company</title>
-</head>
-<body bgcolor="pink">
-<h1 align="center">
-<font color="red"><b>DLF</b></font>
-</h1>
-<h3 align="center">
-<font color="blue"><b>company</b></font>
-</h3>
-<hr size="3" color="red">
-<p align="justify">
-<font face="Georgia" size="5">
-Delhi Land & Finance (DLF Limited) is a commercial real estate development company. It was founded by Chaudhary Raghvendra Singh in 1946 and it is based in New Delhi, India.[2][3] DLF has developed residential colonies in Delhi such as Model Town, Rajouri Garden, Krishna Nagar, South Extension, Greater Kailash, Kailash Colony, and Hauz Khas. DLF builds residential, office, and retail properties.
-</font>
-</p>
-</body>
-</html>
-```
-
 
 # Output:
 ![Alt text](<Screenshot 2023-11-21 144850.png>)
