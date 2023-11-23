@@ -120,9 +120,10 @@ Push it to 'README.md' and push it to the repository.
 
 
 # Output:
+![Alt text](<Screenshot 2023-11-23 063031.png>)
+
 ![Alt text](<Screenshot 2023-11-23 062956.png>)
 
-![Alt text](<Screenshot 2023-11-23 063031.png>)
 
 ![Alt text](<Screenshot 2023-11-23 063113.png>)
 
