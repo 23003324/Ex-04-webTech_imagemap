@@ -59,18 +59,7 @@ Push it to 'README.md' and push it to the repository.
     </body>
 </html>
 ```
-# hospital.html:
 
-```
-<!DOCTYPE html>
-<html>
-    <head>hospital</head>
-    <body style="background-color:rgb(28, 255, 255);"align ="center">
-        <h1 style="font-family:verdana;"> <u>Ramachandra Medical Hospital</u></h1>
-        <p style="color:rgb(165, 42, 42); font-size: 200%;" ><strong>Sri Ramachandra Hospital (SRH) is a tertiary care centre for imparting training and education to over 6000 students along with Research and nurturing excellence in patient care. This includes students from undergraduate and postgraduate medical courses, nursing, occupational therapy, clinical nutrition, allied health sciences, speech and hearing, physiotherapy, optometry, hospital and healthcare management and several other paramedical and allied health sciences.. </strong></p>
-    </body>
-</html>
-```
 # school.html:
 
 ```
@@ -80,6 +69,19 @@ Push it to 'README.md' and push it to the repository.
     <body style="background-color:rgb(28, 255, 255);"align ="center">
         <h1 style="font-family:verdana;"> <u>Maharishi Vidhya Mandhir school</u></h1>
         <p style="color:rgb(165, 42, 42); font-size: 200%;" ><strong>Maharishi Vidya Mandir Schools (MVMs) have been established to introduce Maharishi Consciousness based Education in mainstream of school education in India. 153 schools in 15 states with about 75670 students and about 5717 teaching, administrative and support staff has proven its importance in Indian society for last 32 years. Keeping in view the local requirement, schools are functional from KG to 12th standard. 93 schools are affiliated to CBSE, New Delhi and rests are affiliated to respective State School Education Boards.</strong></p>
+    </body>
+</html>
+```
+
+# hospital.html:
+
+```
+<!DOCTYPE html>
+<html>
+    <head>hospital</head>
+    <body style="background-color:rgb(28, 255, 255);"align ="center">
+        <h1 style="font-family:verdana;"> <u>Ramachandra Medical Hospital</u></h1>
+        <p style="color:rgb(165, 42, 42); font-size: 200%;" ><strong>Sri Ramachandra Hospital (SRH) is a tertiary care centre for imparting training and education to over 6000 students along with Research and nurturing excellence in patient care. This includes students from undergraduate and postgraduate medical courses, nursing, occupational therapy, clinical nutrition, allied health sciences, speech and hearing, physiotherapy, optometry, hospital and healthcare management and several other paramedical and allied health sciences.. </strong></p>
     </body>
 </html>
 ```
