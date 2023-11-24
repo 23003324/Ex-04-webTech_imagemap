@@ -12,7 +12,7 @@ To develop a website to display details about the places around my house.
 Create a folder 'static' under the project folder 'imgproject'
 
 ## Step 2:
-In 'static',create another folder 'html',under which the file 'map.html' should be created.
+In 'static',create another folder 'html',under which the file 'img.html' should be created.
 
 
 ## Step 3:
